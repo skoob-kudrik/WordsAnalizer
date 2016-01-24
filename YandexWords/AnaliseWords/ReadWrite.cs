@@ -21,7 +21,7 @@ namespace AnaliseWords
             List<string> list = new List<string>();
             Ruslist = new List<string>();
             Englist = new List<string>();
-            FileStream fs = new FileStream("C:\\Users\\kudrik\\Documents\\visual studio 2013\\Projects\\YandexWords\\CSVFolder\\sample.csv", FileMode.Open);
+            FileStream fs = new FileStream("C:\\Users\\kudrik\\Documents\\GitHub\\WordsAnalizer\\YandexWords\\CSVFolder\\sample.csv", FileMode.Open);
             //Если текст в русской кодировке, необходимо это указать
             using (StreamReader sr = new StreamReader(fs))
             {
@@ -211,7 +211,7 @@ namespace AnaliseWords
 
         public static void writeHTML(Dictionary<string, string[]> wordsDic, string htmlName) 
         {
-            StreamWriter str = new StreamWriter(String.Format(@"C:\Users\kudrik\Documents\visual studio 2013\Projects\YandexWords\CSVFolder\{0}.htm",htmlName));
+            StreamWriter str = new StreamWriter(String.Format("C:\\Users\\kudrik\\Documents\\GitHub\\WordsAnalizer\\YandexWords\\CSVFolder\\{0}.htm", htmlName));
             str.WriteLine("<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\" />");
             foreach (var key in wordsDic.Keys)
             {

@@ -3,3 +3,8 @@ c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\AnaliseWords\b
 c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\AnaliseWords\obj\Debug\AnaliseWords.csprojResolveAssemblyReference.cache
 c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\AnaliseWords\obj\Debug\AnaliseWords.dll
 c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\AnaliseWords\obj\Debug\AnaliseWords.pdb
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\AnaliseWords\bin\Debug\AnaliseWords.dll
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\AnaliseWords\bin\Debug\AnaliseWords.pdb
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\AnaliseWords\obj\Debug\AnaliseWords.csprojResolveAssemblyReference.cache
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\AnaliseWords\obj\Debug\AnaliseWords.dll
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\AnaliseWords\obj\Debug\AnaliseWords.pdb

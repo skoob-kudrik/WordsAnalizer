@@ -6,3 +6,11 @@ c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\bi
 c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\obj\Debug\testAnalise.csprojResolveAssemblyReference.cache
 c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\obj\Debug\testAnalise.exe
 c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\obj\Debug\testAnalise.pdb
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\bin\Debug\testAnalise.exe.config
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\obj\Debug\testAnalise.exe
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\obj\Debug\testAnalise.pdb
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\bin\Debug\testAnalise.exe
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\bin\Debug\testAnalise.pdb
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\bin\Debug\AnaliseWords.dll
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\bin\Debug\AnaliseWords.pdb
+C:\Users\kudrik\Documents\GitHub\WordsAnalizer\YandexWords\testAnalise\obj\Debug\testAnalise.csprojResolveAssemblyReference.cache

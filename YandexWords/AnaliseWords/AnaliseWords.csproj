@@ -39,11 +39,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Levingstein.cs" />
+    <Compile Include="WordAnalizer.cs" />
     <Compile Include="Porter.cs" />
     <Compile Include="PorterEng.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="readCSV.cs" />
+    <Compile Include="ReadWrite.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
