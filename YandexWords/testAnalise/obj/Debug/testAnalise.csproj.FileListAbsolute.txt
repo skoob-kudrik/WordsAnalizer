@@ -1,0 +1,8 @@
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\bin\Debug\testAnalise.exe.config
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\bin\Debug\testAnalise.exe
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\bin\Debug\testAnalise.pdb
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\bin\Debug\AnaliseWords.dll
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\bin\Debug\AnaliseWords.pdb
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\obj\Debug\testAnalise.csprojResolveAssemblyReference.cache
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\obj\Debug\testAnalise.exe
+c:\users\kudrik\documents\visual studio 2013\Projects\YandexWords\testAnalise\obj\Debug\testAnalise.pdb
