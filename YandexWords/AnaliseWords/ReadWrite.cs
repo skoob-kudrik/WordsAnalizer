@@ -41,7 +41,6 @@ namespace AnaliseWords
 
             }
 
-            //Regex regex = new Regex(/*@"^[а-яА-ЯёЁ]+$"*/@"\A[\s\W\p{IsCyrillic}]*\z");
           
             return list[1700];
         }

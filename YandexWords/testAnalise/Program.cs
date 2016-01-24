@@ -18,7 +18,7 @@ namespace testAnalise
             var resultDicEng = new Dictionary<string, string[]>();
             var resultDicRus = new Dictionary<string, string[]>();
             AnaliseWords.ReadWrite forRead = new AnaliseWords.ReadWrite();
-            forRead.read();//добавить передачу сюда файла
+            forRead.read("ddd");//добавить передачу сюда файла
             getWords(forRead.Englist, resultDicEng,"ENGWords",  pEng);
             getWords(forRead.Ruslist, resultDicRus,"RUSWords",null, pRus);
             
