@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="iStemmer.cs" />
     <Compile Include="WordAnalizer.cs" />
     <Compile Include="Porter.cs" />
     <Compile Include="PorterEng.cs" />

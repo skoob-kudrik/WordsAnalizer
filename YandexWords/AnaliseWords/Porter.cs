@@ -3,12 +3,12 @@ using System;
 
 
 
-namespace AnaliseWords.Stemmer.RU
+namespace AnaliseWords.Stemmer
 {
     /// <summary>
     /// Stemmer
     /// </summary>
-    public class Porter
+    public class Porter: AnaliseWords.Stemmer.iStemmer
     {
 
         private const string VOWEL = "аеиоуыэюя";
@@ -36,7 +36,7 @@ namespace AnaliseWords.Stemmer.RU
         /// </summary>
         /// <param name="word"></param>
         /// <returns>Stemm of the word</returns>
-        public string StemWord(string word)
+        public  string StemWord(string word)
         {
             word = word.ToLower();
             word = word.Replace("ё", "е");

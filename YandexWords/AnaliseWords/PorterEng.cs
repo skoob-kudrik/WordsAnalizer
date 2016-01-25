@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AnaliseWords.Stemmer.Eng
+namespace AnaliseWords.Stemmer
 {
 
     /// <summary>
@@ -18,7 +18,7 @@ namespace AnaliseWords.Stemmer.Eng
     /// var stemmer = new PorterStemmer();
     /// var stem = stemmer.StemWord(word);
     /// </example>
-    public class PorterStemmer
+    public class PorterStemmer:AnaliseWords.Stemmer.iStemmer
     {
 
         // The passed in word turned into a char array. 
@@ -38,7 +38,7 @@ namespace AnaliseWords.Stemmer.Eng
         /// </summary>
         /// <param name="word">Word to evaluate</param>
         /// <returns></returns>
-        public string StemWord(string word)
+        public  string StemWord(string word)
         {
 
             // Do nothing for empty strings or short words.
